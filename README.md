@@ -3,10 +3,24 @@
 <!-- ANIMATED HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Noor%20Rattan&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=twinkling&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=16" alt="Noor Rattan" />
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Building+AI+products+for+real-world+problems+%F0%9F%9A%80;RAG+systems+%E2%80%A2+LLM+apps+%E2%80%A2+Deep+Learning+%F0%9F%A7%A0;React+%2B+FastAPI+%2B+Firebase+%E2%9A%A1;Turning+ideas+into+intelligent+software+%F0%9F%92%A1" alt="Typing SVG" />
-</a>
+<!-- SHIMMER SKILLS STRIP -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7c3aed,50:a855f7,100:7c3aed" alt="" />
+
+<br />
+
+<img src="https://img.shields.io/badge/🧠%20RAG%20Systems-7c3aed?style=for-the-badge&labelColor=1a0533" alt="RAG Systems" />
+&nbsp;
+<img src="https://img.shields.io/badge/🤖%20LLM%20Apps-6d28d9?style=for-the-badge&labelColor=1a0533" alt="LLM Apps" />
+&nbsp;
+<img src="https://img.shields.io/badge/⚡%20FastAPI-a21caf?style=for-the-badge&labelColor=1a0533" alt="FastAPI" />
+&nbsp;
+<img src="https://img.shields.io/badge/⚛️%20React-7e22ce?style=for-the-badge&labelColor=1a0533" alt="React" />
+&nbsp;
+<img src="https://img.shields.io/badge/🔥%20Deep%20Learning-9333ea?style=for-the-badge&labelColor=1a0533" alt="Deep Learning" />
+&nbsp;
+<img src="https://img.shields.io/badge/🚀%20Full--Stack%20AI-581c87?style=for-the-badge&labelColor=1a0533" alt="Full-Stack AI" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7c3aed,50:a855f7,100:7c3aed" alt="" />
 
 <br />
 <br />
