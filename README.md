@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F766E,50:2563EB,100:7C3AED&text=Noor%20Rattan&fontColor=FFFFFF&fontSize=44&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Student%20%7C%20AI-Assisted%20Full-Stack%20Builder&descAlignY=58&descSize=16" alt="Noor Rattan banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:0F766E,50:2563EB,100:7C3AED&amp;text=Noor%20Rattan&amp;fontColor=FFFFFF&amp;fontSize=44&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=AI%20Machine%20Learning%20Student%20%7C%20Full-Stack%20AI%20Builder&amp;descAlignY=58&amp;descSize=16" alt="Noor Rattan profile banner" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=850&lines=Building+AI-powered+apps+for+real-world+problems;Exploring+Deep+Learning%2C+RAG%2C+LLMs+and+Full-Stack+Systems;Turning+ideas+into+usable+products" alt="Typing SVG" />
 
@@ -183,6 +183,6 @@ flowchart LR
 
 <img src="https://komarev.com/ghpvc/?username=NoorRattan&label=Profile%20Views&color=14b8a6&style=for-the-badge" alt="Profile views" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:7C3AED,50:2563EB,100:0F766E" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;section=footer&amp;color=0:7C3AED,50:2563EB,100:0F766E" alt="Footer wave" />
 
 </div>
