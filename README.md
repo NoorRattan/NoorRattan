@@ -111,22 +111,22 @@ I build full-stack AI systems that solve real problems: **RAG pipelines** that a
 <div align="center">
 
 <a href="https://github.com/NoorRattan/CROWDIQ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=CROWDIQ&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="CROWDIQ" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NoorRattan&repo=CROWDIQ&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="CROWDIQ" />
 </a>
 <a href="https://github.com/NoorRattan/AskMyPDF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=AskMyPDF&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="AskMyPDF" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NoorRattan&repo=AskMyPDF&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="AskMyPDF" />
 </a>
 <a href="https://github.com/NoorRattan/Carbon-Footprint-Awareness-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=Carbon-Footprint-Awareness-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="Carbon Footprint" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NoorRattan&repo=Carbon-Footprint-Awareness-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="Carbon Footprint" />
 </a>
 <a href="https://github.com/NoorRattan/election">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=election&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="Electra" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NoorRattan&repo=election&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="Electra" />
 </a>
 <a href="https://github.com/NoorRattan/truthlens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=truthlens&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="TruthLens" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NoorRattan&repo=truthlens&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="TruthLens" />
 </a>
 <a href="https://github.com/NoorRattan/AI-Voice-Detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=AI-Voice-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="AI Voice Detection" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=NoorRattan&repo=AI-Voice-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="AI Voice Detection" />
 </a>
 
 </div>
@@ -154,12 +154,12 @@ I build full-stack AI systems that solve real problems: **RAG pipelines** that a
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NoorRattan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NoorRattan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NoorRattan&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" alt="GitHub Streak" />
 
 <br />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorRattan&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NoorRattan&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
