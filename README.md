@@ -1,24 +1,24 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Noor%20Rattan&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=twinkling&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=16" alt="Noor Rattan" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Noor%20Rattan&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20%E2%80%A2%20AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=16" alt="Noor Rattan" />
 
 <!-- SHIMMER SKILLS STRIP -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7c3aed,50:a855f7,100:7c3aed" alt="" />
 
 <br />
 
-<img src="https://img.shields.io/badge/🧠%20RAG%20Systems-7c3aed?style=for-the-badge&labelColor=1a0533" alt="RAG Systems" />
+<img src="https://img.shields.io/badge/⚡%20FastAPI-7c3aed?style=for-the-badge&labelColor=1a0533" alt="FastAPI" />
 &nbsp;
-<img src="https://img.shields.io/badge/🤖%20LLM%20Apps-6d28d9?style=for-the-badge&labelColor=1a0533" alt="LLM Apps" />
+<img src="https://img.shields.io/badge/🧠%20RAG%20Systems-6d28d9?style=for-the-badge&labelColor=1a0533" alt="RAG Systems" />
 &nbsp;
-<img src="https://img.shields.io/badge/⚡%20FastAPI-a21caf?style=for-the-badge&labelColor=1a0533" alt="FastAPI" />
+<img src="https://img.shields.io/badge/🤖%20LLM%20Apps-a21caf?style=for-the-badge&labelColor=1a0533" alt="LLM Apps" />
 &nbsp;
-<img src="https://img.shields.io/badge/⚛️%20React-7e22ce?style=for-the-badge&labelColor=1a0533" alt="React" />
+<img src="https://img.shields.io/badge/🐍%20Python-7e22ce?style=for-the-badge&labelColor=1a0533" alt="Python" />
 &nbsp;
 <img src="https://img.shields.io/badge/🔥%20Deep%20Learning-9333ea?style=for-the-badge&labelColor=1a0533" alt="Deep Learning" />
 &nbsp;
-<img src="https://img.shields.io/badge/🚀%20Full--Stack%20AI-581c87?style=for-the-badge&labelColor=1a0533" alt="Full-Stack AI" />
+<img src="https://img.shields.io/badge/🐳%20Docker-581c87?style=for-the-badge&labelColor=1a0533" alt="Docker" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7c3aed,50:a855f7,100:7c3aed" alt="" />
 
@@ -49,15 +49,15 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160" />
 
-I'm a **Computer Science student specializing in AI & Machine Learning** who doesn't just study models — I ship products.
+I'm a **Computer Science student specializing in AI & Machine Learning** — a backend developer who builds the systems that power intelligent products.
 
-I build full-stack AI systems that solve real problems: **RAG pipelines** that actually answer questions, **deep learning APIs** that work in production, and **React + FastAPI apps** that real people can use.
+I design and ship **production-grade backends**: RAG pipelines, LLM-powered APIs, real-time data systems, and deep learning services that solve real problems at scale.
 
-- 🔭 &nbsp;Currently building **AI-powered document intelligence** and **trust & safety tools**
-- 🧠 &nbsp;Deep into **RAG systems, LLM reasoning, and streaming architectures**
-- ⚡ &nbsp;My stack: **Python → FastAPI → React → Firebase → Ship it**
-- 🌱 &nbsp;Always learning: advanced retrieval strategies, multi-modal AI, edge deployment
-- 🎯 &nbsp;Goal: Build AI products that make a measurable real-world impact
+- 🔭 &nbsp;Currently building **AI-powered backend systems** for document intelligence and trust & safety
+- 🧠 &nbsp;Deep into **RAG architectures, LLM reasoning, streaming APIs, and model serving**
+- ⚡ &nbsp;My stack: **Python → FastAPI → Docker → Firebase → Ship it**
+- 🌱 &nbsp;Always learning: vector databases, async Python, distributed systems, MLOps
+- 🎯 &nbsp;Goal: Build backend AI infrastructure that makes a measurable real-world impact
 
 <br clear="both" />
 
@@ -67,7 +67,7 @@ I build full-stack AI systems that solve real problems: **RAG pipelines** that a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,firebase,docker,git,github,vscode,linux&perline=6" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,firebase,postgresql,redis,git,github,linux,vscode,pytorch,tensorflow&perline=6" alt="Tech stack" />
 
 <br />
 <br />
@@ -96,22 +96,22 @@ I build full-stack AI systems that solve real problems: **RAG pipelines** that a
 </td>
 <td align="center" width="25%">
 
-**🎨 Frontend**
+**🗄️ Data & Infra**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
 <td align="center" width="25%">
 
-**🚀 DevOps**
+**🚀 DevOps & Cloud**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </td>
 </tr>
@@ -121,7 +121,7 @@ I build full-stack AI systems that solve real problems: **RAG pipelines** that a
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
@@ -165,7 +165,7 @@ I build full-stack AI systems that solve real problems: **RAG pipelines** that a
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -180,7 +180,7 @@ I build full-stack AI systems that solve real problems: **RAG pipelines** that a
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Graph
+## 🐍 &nbsp;Contribution Graph
 
 <div align="center">
 
@@ -194,12 +194,12 @@ I build full-stack AI systems that solve real problems: **RAG pipelines** that a
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;What Drives Me
+## 💡 &nbsp;What Drives Me
 
 <div align="center">
 
 ```
-  🔬 Real Problem  →  🧠 AI/ML Layer  →  ⚙️ FastAPI Backend  →  🎨 React Frontend  →  🚀 Shipped Product
+  🔬 Real Problem  →  🧠 AI/ML Layer  →  ⚙️ FastAPI Backend  →  🗄️ Data / Vector Store  →  🚀 Production API
 ```
 
 </div>
