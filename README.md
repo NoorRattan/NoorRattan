@@ -45,9 +45,9 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="120" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160" />
 
 I'm a **Computer Science student specializing in AI & Machine Learning** who doesn't just study models — I ship products.
 
@@ -63,7 +63,7 @@ I build full-stack AI systems that solve real problems: **RAG pipelines** that a
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
