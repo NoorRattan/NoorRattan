@@ -5,7 +5,11 @@
 <br />
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI-powered+apps+for+real-world+problems;Exploring+Deep+Learning%2C+RAG%2C+LLMs+and+Full-Stack+Systems;Turning+ideas+into+usable+products" alt="Typing SVG" />
+<h3>Building AI-powered products for real-world problems</h3>
+
+<p>
+  RAG systems · LLM apps · model-backed APIs · full-stack product workflows
+</p>
 
 <br />
 <br />
