@@ -1,197 +1,215 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=150&amp;color=0:0F766E,45:1D4ED8,100:6D28D9&amp;text=Noor%20Rattan&amp;fontColor=FFFFFF&amp;fontSize=46&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=AI%20Machine%20Learning%20Student%20%7C%20Full-Stack%20AI%20Builder&amp;descAlignY=68&amp;descSize=17" alt="Noor Rattan profile banner" />
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Noor%20Rattan&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=twinkling&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Builder%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=16" alt="Noor Rattan" />
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+AI+products+for+real-world+problems+%F0%9F%9A%80;RAG+systems+%E2%80%A2+LLM+apps+%E2%80%A2+Deep+Learning+%F0%9F%A7%A0;React+%2B+FastAPI+%2B+Firebase+%E2%9A%A1;Turning+ideas+into+intelligent+software+%F0%9F%92%A1" alt="Typing SVG" />
+</a>
+
+<br />
+
+<!-- SOCIAL BADGES -->
+<a href="https://github.com/NoorRattan">
+  <img src="https://img.shields.io/badge/GitHub-NoorRattan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://linkedin.com/in/noor-rattan">
+  <img src="https://img.shields.io/badge/LinkedIn-Noor_Rattan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:noor.rattan@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 <br />
 <br />
 
-<h3>Building AI-powered products for real-world problems</h3>
-
-<p>
-  RAG systems · LLM apps · model-backed APIs · full-stack product workflows
-</p>
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/AI%20Products-14B8A6?style=for-the-badge" alt="AI products" />
-<img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=for-the-badge" alt="RAG systems" />
-<img src="https://img.shields.io/badge/React%20%2B%20FastAPI-0F172A?style=for-the-badge" alt="React and FastAPI" />
-<img src="https://img.shields.io/badge/AI--Assisted%20Builds-7C3AED?style=for-the-badge" alt="AI-assisted builds" />
+<img src="https://komarev.com/ghpvc/?username=NoorRattan&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views" />
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" width="28" /> &nbsp;About Me
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="120" />
+
+I'm a **Computer Science student specializing in AI & Machine Learning** who doesn't just study models — I ship products.
+
+I build full-stack AI systems that solve real problems: **RAG pipelines** that actually answer questions, **deep learning APIs** that work in production, and **React + FastAPI apps** that real people can use.
+
+- 🔭 &nbsp;Currently building **AI-powered document intelligence** and **trust & safety tools**
+- 🧠 &nbsp;Deep into **RAG systems, LLM reasoning, and streaming architectures**
+- ⚡ &nbsp;My stack: **Python → FastAPI → React → Firebase → Ship it**
+- 🌱 &nbsp;Always learning: advanced retrieval strategies, multi-modal AI, edge deployment
+- 🎯 &nbsp;Goal: Build AI products that make a measurable real-world impact
+
+<br clear="both" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
 
 <div align="center">
 
-## About Me
-
-</div>
-
-I'm a Computer Science student specializing in **Artificial Intelligence and Machine Learning**. I like building practical systems that combine AI, backend engineering, product thinking, and real-world impact.
-
-<div align="center">
-
-| Currently Exploring | Building With |
-| --- | --- |
-| RAG systems and document intelligence | TypeScript, React, FastAPI |
-| Deep learning and model-backed APIs | Python, Firebase, Docker |
-| AI products for real-world problems | LLM reasoning, streaming APIs, product workflows |
-
-</div>
-
----
-
-<div align="center">
-
-## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,fastapi,html,css,firebase,docker,git,github,vscode" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,fastapi,firebase,docker,git,github,vscode,linux&perline=6" alt="Tech stack" />
 
 <br />
 <br />
-
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FACC15" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=60A5FA" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=FACC15" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=22D3EE" alt="React" />
-<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=14B8A6" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=F59E0B" alt="Firebase" />
-<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=38BDF8" alt="Docker" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-| Area | Tools & Technologies |
-| --- | --- |
-| AI / ML | Python, deep learning workflows, acoustic feature extraction, RAG, LLM reasoning |
-| Backend | FastAPI, Python APIs, streaming responses, document processing, Docker |
-| Frontend | TypeScript, JavaScript, React, HTML, CSS |
-| Cloud / Product | Firebase, GitHub, deployment-ready full-stack apps |
-
-</div>
-
----
-
-<div align="center">
-
-## Featured Projects
-
-</div>
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/NoorRattan/CROWDIQ">CROWDIQ</a></h3>
-      <p align="center">Real-time stadium crowd management with attendee navigation, queue monitoring, emergency routing, admin analytics, FastAPI, React, and Firebase.</p>
-      <p align="center"><b>Solo / AI-Assisted Build</b></p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/NoorRattan/AskMyPDF">AskMyPDF</a></h3>
-      <p align="center">AI-powered PDF chat with document upload, streamed answers, citations, React frontend, and FastAPI RAG backend.</p>
-      <p align="center"><b>Solo / AI-Assisted Build</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/NoorRattan/Carbon-Footprint-Awareness-Platform">Carbon Footprint Awareness Platform</a></h3>
-      <p align="center">Full-stack carbon footprint tracker with activity logging, CO2e calculations, education content, goals, and personalized reduction insights.</p>
-      <p align="center"><b>Solo / AI-Assisted Build</b></p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/NoorRattan/election">Electra</a></h3>
-      <p align="center">Election education web app for first-time voters, students, and civic groups across the UK, USA, and India.</p>
-      <p align="center"><b>Solo / AI-Assisted Build</b></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/NoorRattan/truthlens">TruthLens</a></h3>
-      <p align="center">Fake news and misinformation detection using LLM reasoning, source credibility checks, and real-time web corroboration.</p>
-      <p align="center"><b>Collaborative Project</b></p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/NoorRattan/AI-Voice-Detection">AI Voice Detection</a></h3>
-      <p align="center">Production-ready AI voice detection API with multi-language support and acoustic feature extraction.</p>
-      <p align="center"><b>Collaborative Project</b></p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+
+**🧠 AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+**⚙️ Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+**🚀 DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
 </table>
 
----
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> &nbsp;Featured Projects
 
 <div align="center">
 
-## Project Focus
-
-| Area | What I Build |
-| --- | --- |
-| AI Applications | LLM apps, RAG systems, misinformation detection, document chat |
-| Machine Learning | Deep learning workflows, voice detection, model-backed APIs |
-| Full Stack | TypeScript/React frontends, FastAPI backends, Firebase-powered products |
-| Real-World Impact | Sustainability tools, civic education apps, crowd safety systems |
+<a href="https://github.com/NoorRattan/CROWDIQ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=CROWDIQ&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="CROWDIQ" />
+</a>
+<a href="https://github.com/NoorRattan/AskMyPDF">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=AskMyPDF&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="AskMyPDF" />
+</a>
+<a href="https://github.com/NoorRattan/Carbon-Footprint-Awareness-Platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=Carbon-Footprint-Awareness-Platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="Carbon Footprint" />
+</a>
+<a href="https://github.com/NoorRattan/election">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=election&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="Electra" />
+</a>
+<a href="https://github.com/NoorRattan/truthlens">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=truthlens&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="TruthLens" />
+</a>
+<a href="https://github.com/NoorRattan/AI-Voice-Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NoorRattan&repo=AI-Voice-Detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="AI Voice Detection" />
+</a>
 
 </div>
 
----
+<br />
+
+<details>
+<summary><b>💡 What makes these projects stand out</b></summary>
+<br />
+
+| Project | What's Special |
+|---------|---------------|
+| **CROWDIQ** | Real-time stadium crowd management — attendee navigation, queue monitoring, emergency routing, admin analytics |
+| **AskMyPDF** | Full RAG pipeline — PDF upload → chunking → vector search → streamed, citation-backed LLM answers |
+| **Carbon Footprint** | Complete sustainability platform — activity logging, CO2e math, personalized reduction insights |
+| **Electra** | Civic education across UK/USA/India — voter registration, eligibility checks, polling locator |
+| **TruthLens** | LLM-powered misinformation detection — source credibility, real-time web corroboration |
+| **AI Voice Detection** | Multi-language voice analysis (EN/HI/TA/TE/ML) — acoustic feature extraction, calibrated scoring |
+
+</details>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Stats
 
 <div align="center">
 
-## GitHub Activity
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NoorRattan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=a78bfa&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=NoorRattan&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=f97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280" alt="GitHub Streak" />
 
-<img src="https://metrics.lecoq.io/NoorRattan?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&notable=1&topics=1&topics.mode=icons&topics.limit=15&config.timezone=Asia%2FCalcutta" alt="Noor Rattan's GitHub metrics" />
+<br />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorRattan&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Graph
 
 <div align="center">
 
-## What I Like Building
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoorRattan/NoorRattan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoorRattan/NoorRattan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NoorRattan/NoorRattan/output/github-snake-dark.svg" />
+</picture>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" /> &nbsp;What Drives Me
 
 <div align="center">
 
-| Direction | What It Means |
-| --- | --- |
-| AI products with real users | Apps where AI is part of the workflow, not just a feature added on top |
-| Document and knowledge systems | RAG apps, PDF chat, citation-backed answers, and useful search experiences |
-| Trust and safety tools | Fake-news detection, source checking, AI voice detection, and credibility analysis |
-| Public-impact platforms | Civic education, sustainability tracking, crowd safety, and decision-support tools |
-| Full-stack AI systems | React interfaces connected to FastAPI backends, databases, cloud services, and model APIs |
-
-</div>
-
-```mermaid
-flowchart LR
-  A[Real-world problem] --> B[AI / ML layer]
-  B --> C[FastAPI backend]
-  C --> D[React + TypeScript app]
-  D --> E[Useful product experience]
-
-  B --> B1[RAG]
-  B --> B2[LLM reasoning]
-  B --> B3[Voice and signal analysis]
-
-  E --> E1[Document intelligence]
-  E --> E2[Trust and safety]
-  E --> E3[Civic and sustainability tools]
-  E --> E4[Crowd safety systems]
+```
+  🔬 Real Problem  →  🧠 AI/ML Layer  →  ⚙️ FastAPI Backend  →  🎨 React Frontend  →  🚀 Shipped Product
 ```
 
----
+</div>
+
+> **I don't build demos. I build products.**
+> Every project starts with a real problem and ends with something people can actually use.
+> AI is the engine, not the gimmick.
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### Let's build something useful with AI.
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=NoorRattan&label=Profile%20Views&color=14b8a6&style=for-the-badge" alt="Profile views" />
+### 💬 Let's build something useful with AI.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=90&amp;section=footer&amp;color=0:7C3AED,50:2563EB,100:0F766E" alt="Footer wave" />
+<br />
+
+<a href="https://github.com/NoorRattan">
+  <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_find_them_useful!-a78bfa?style=for-the-badge" alt="Star" />
+</a>
+
+<br />
+<br />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:24243e,50:302b63,100:0f0c29" alt="Footer" />
 
 </div>
