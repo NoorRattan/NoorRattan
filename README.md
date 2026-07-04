@@ -1,14 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=180&amp;color=0:0F766E,50:2563EB,100:7C3AED&amp;text=Noor%20Rattan&amp;fontColor=FFFFFF&amp;fontSize=44&amp;fontAlignY=35&amp;animation=fadeIn&amp;desc=AI%20Machine%20Learning%20Student%20%7C%20Full-Stack%20AI%20Builder&amp;descAlignY=58&amp;descSize=16" alt="Noor Rattan profile banner" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=850&lines=Building+AI-powered+apps+for+real-world+problems;Exploring+Deep+Learning%2C+RAG%2C+LLMs+and+Full-Stack+Systems;Turning+ideas+into+usable+products" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;height=150&amp;color=0:0F766E,45:1D4ED8,100:6D28D9&amp;text=Noor%20Rattan&amp;fontColor=FFFFFF&amp;fontSize=46&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=AI%20Machine%20Learning%20Student%20%7C%20Full-Stack%20AI%20Builder&amp;descAlignY=68&amp;descSize=17" alt="Noor Rattan profile banner" />
 
 <br />
+<br />
 
-<img src="https://img.shields.io/badge/Focus-AI%20Products-14B8A6?style=for-the-badge" alt="AI products" />
-<img src="https://img.shields.io/badge/Stack-React%20%2B%20FastAPI-2563EB?style=for-the-badge" alt="React and FastAPI" />
-<img src="https://img.shields.io/badge/Build%20Style-AI--Assisted-7C3AED?style=for-the-badge" alt="AI-assisted development" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI-powered+apps+for+real-world+problems;Exploring+Deep+Learning%2C+RAG%2C+LLMs+and+Full-Stack+Systems;Turning+ideas+into+usable+products" alt="Typing SVG" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/AI%20Products-14B8A6?style=for-the-badge" alt="AI products" />
+<img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=for-the-badge" alt="RAG systems" />
+<img src="https://img.shields.io/badge/React%20%2B%20FastAPI-0F172A?style=for-the-badge" alt="React and FastAPI" />
+<img src="https://img.shields.io/badge/AI--Assisted%20Builds-7C3AED?style=for-the-badge" alt="AI-assisted builds" />
 
 </div>
 
