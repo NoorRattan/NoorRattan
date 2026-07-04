@@ -5,9 +5,10 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+AI+products+for+real-world+problems+%F0%9F%9A%80;RAG+systems+%E2%80%A2+LLM+apps+%E2%80%A2+Deep+Learning+%F0%9F%A7%A0;React+%2B+FastAPI+%2B+Firebase+%E2%9A%A1;Turning+ideas+into+intelligent+software+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Building+AI+products+for+real-world+problems+%F0%9F%9A%80;RAG+systems+%E2%80%A2+LLM+apps+%E2%80%A2+Deep+Learning+%F0%9F%A7%A0;React+%2B+FastAPI+%2B+Firebase+%E2%9A%A1;Turning+ideas+into+intelligent+software+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
+<br />
 <br />
 
 <!-- SOCIAL BADGES -->
