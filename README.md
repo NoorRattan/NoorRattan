@@ -59,20 +59,14 @@ Full-stack carbon footprint tracker with activity logging, CO2e calculations, ed
 
 ---
 
-## GitHub Stats
+## Project Focus
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NoorRattan&show_icons=true&theme=tokyonight&hide_border=true" alt="Noor Rattan's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=NoorRattan&theme=tokyonight&hide_border=true" alt="Noor Rattan's GitHub streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorRattan&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-</div>
+| Area | What I Build |
+| --- | --- |
+| AI Applications | LLM apps, RAG systems, misinformation detection, document chat |
+| Machine Learning | Deep learning experiments, voice detection, model-backed APIs |
+| Full Stack | React frontends, FastAPI backends, Firebase-powered products |
+| Real-World Impact | Sustainability tools, civic education apps, crowd safety systems |
 
 ---
 
