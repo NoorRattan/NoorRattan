@@ -97,24 +97,29 @@ Production-ready AI voice detection API with multi-language support and acoustic
 
 ## What I Like Building
 
+| Direction | What It Means |
+| --- | --- |
+| AI products with real users | Apps where AI is part of the workflow, not just a feature added on top |
+| Document and knowledge systems | RAG apps, PDF chat, citation-backed answers, and useful search experiences |
+| Trust and safety tools | Fake-news detection, source checking, AI voice detection, and credibility analysis |
+| Public-impact platforms | Civic education, sustainability tracking, crowd safety, and decision-support tools |
+| Full-stack AI systems | React interfaces connected to FastAPI backends, databases, cloud services, and model APIs |
+
 ```mermaid
-mindmap
-  root((Noor Rattan))
-    AI and ML
-      Deep Learning
-      LLM Apps
-      RAG Systems
-      Voice Detection
-    Full Stack
-      React
-      FastAPI
-      Firebase
-      TypeScript
-    Impact Projects
-      Sustainability
-      Civic Tech
-      Misinformation Detection
-      Crowd Safety
+flowchart LR
+  A[Real-world problem] --> B[AI / ML layer]
+  B --> C[FastAPI backend]
+  C --> D[React + TypeScript app]
+  D --> E[Useful product experience]
+
+  B --> B1[RAG]
+  B --> B2[LLM reasoning]
+  B --> B3[Voice and signal analysis]
+
+  E --> E1[Document intelligence]
+  E --> E2[Trust and safety]
+  E --> E3[Civic and sustainability tools]
+  E --> E4[Crowd safety systems]
 ```
 
 ---
