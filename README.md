@@ -85,6 +85,16 @@ Production-ready AI voice detection API with multi-language support and acoustic
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/NoorRattan?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&notable=1&topics=1&topics.mode=icons&topics.limit=15&config.timezone=Asia%2FCalcutta" alt="Noor Rattan's GitHub metrics" />
+
+</div>
+
+---
+
 ## What I Like Building
 
 ```mermaid
